@@ -1,7 +1,7 @@
 ﻿# Complete Java + DSA Bootcamp Syllabus
 
 ## NOTE
-- All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
+- All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner..
 - Complete custom implementation of all Data Structures and Algorithms.
   
 ## Lectures
